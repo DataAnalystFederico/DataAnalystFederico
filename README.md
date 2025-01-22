@@ -9,8 +9,9 @@ Sono un appassionato di dati con una solida formazione in Economia e un'esperien
 - **Analizzo dataset strutturati e non strutturati** per generare soluzioni **data-driven**.
 
 ## 📂 Progetti principali:
-- **IT Nexus**: Analisi delle competenze IT future e delle dinamiche della forza lavoro con **Python**, **SQL** e **Power BI**.
-- **Olist Store BI Analysis**: Creazione di una **dashboard interattiva** per l'analisi dei dati di una piattaforma e-commerce brasiliana, con focus su ricavi, ordini e soddisfazione dei clienti.
+- [**IT Nexus**](https://github.com/tuo-username/Capstone_Project_IT_Nexus): Analisi delle competenze IT future e delle dinamiche della forza lavoro con **Python**, **SQL** e **Power BI**.
+- [**Olist Store BI Analysis**](https://github.com/tuo-username/Capstone_Project_Olist_Store): Creazione di una **dashboard interattiva** per l'analisi dei dati di una piattaforma e-commerce brasiliana, con focus su ricavi, ordini e soddisfazione dei clienti.
+
 
 ## 💡 Competenze tecniche principali:
 - **Linguaggi di programmazione**: **Python** (Pandas, Numpy, Matplotlib, Seaborn), **SQL**

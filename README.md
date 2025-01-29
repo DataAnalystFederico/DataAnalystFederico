@@ -27,4 +27,5 @@ Sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e appre
 
 ## 📫 Contattami:
 Se vuoi collaborare o hai domande sui miei progetti, sentiti libero di inviarmi un messaggio!
+
 📩 Contatti: federicocalarco92@gmail.com

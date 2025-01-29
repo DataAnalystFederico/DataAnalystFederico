@@ -19,7 +19,7 @@ Sono un appassionato di dati con una solida formazione in Economia e un'esperien
 - **Analisi dati**: **Python**, **SQL**, **Power BI**
 
 ## 📚 Formazione continua:
-Sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e apprendere nuovi strumenti. Ho completato un **Master in Data Analytics** e ottenuto l'**IBM Data Analyst Professional Certificate** per affinare ulteriormente le mie capacità tecniche e strategiche.
+Sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e apprendere nuovi strumenti. Ho completato un **Corso di Alta Formazione in Data Analytics** e ottenuto l'**IBM Data Analyst Professional Certificate** per affinare ulteriormente le mie capacità tecniche e strategiche.
 
 ## 🌍 Curiosità su di me:
 - Appassionato di **cinema** e **scacchi**.

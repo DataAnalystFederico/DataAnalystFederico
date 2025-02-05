@@ -15,7 +15,7 @@ Sono un appassionato di dati con una solida formazione in Economia e un'esperien
 
 ## 💡 Competenze tecniche principali:
 - **Linguaggi di programmazione**: **Python** (Pandas, Numpy, Matplotlib, Seaborn), **SQL**
-- **Strumenti di visualizzazione dati**: **Power BI**, **Tableau**, **Google Looker Studio**
+- **Strumenti di visualizzazione dati**: **Power BI**, **IBM Cognos Analytics**, **Google Looker Studio**, **Tableau**,
 - **Analisi dati**: **Python**, **SQL**, **Power BI**
 
 ## 📚 Formazione continua:
